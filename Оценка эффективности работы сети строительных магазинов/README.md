@@ -28,12 +28,6 @@ Pandas, Seaborn, Matplotlib, NumPy, SciPy
 - productID — id товара;
 - price_per_one — стоимость одной единицы товара;
 
-## Отчетная презентация
-
-По итогам проекта я подготовил презентацию с выводами:
-https://disk.yandex.ru/i/SzKLyRA4vaBi6Q
-
-
-
-
-
+## Результаты и презентация
+Лидеры по эффективности - магазины Shop 3, Shop 4, Shop 6.
+Подробный отчет с выводами - в презентации: https://disk.yandex.ru/i/SzKLyRA4vaBi6Q
